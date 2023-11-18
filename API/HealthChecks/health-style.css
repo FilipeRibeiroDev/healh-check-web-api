@@ -1,0 +1,14 @@
+﻿:root{
+    --bgMain: #1f1f1f; /* background color */
+    --fcBase: #fff; /* font color */
+    --bgMenuActive: #2f2f2f; /* background color of active menu item */
+    --bcMenuActive: #fffb00; /* border color of active menu item */
+    --primaryColor: #181818; /* primary color */
+    --secondaryColor: #181818; /* secondary color */
+    --bgMenuActive: #015e256e; /* background color of menu item when active */
+    --bgButton: #015e256e; /* background color of button */
+    --logoImageUrl: url('https://github.com/FilipeRibeiroDev/healh-check-web-api/blob/main/logo/logo.png?raw=true'); /* logo image url */
+    --bgAside: var(--primaryColor); /* background color of aside */
+    --bgTable: #2f2f2f; /* background color of table */
+    --bgTableSecondary: #015e256e; /* secondary background color of table */
+}
